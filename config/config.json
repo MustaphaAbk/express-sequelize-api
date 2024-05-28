@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sql7710046",
+    "password": "ThECsHUt2A",
+    "database": "sql7710046",
+    "host": "sql7.freesqldatabase.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "sql7710046",
+    "password": "ThECsHUt2A",
+    "database": "sql7710046",
+    "host": "sql7.freesqldatabase.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "sql7710046",
+    "password": "ThECsHUt2A",
+    "database": "sql7710046",
+    "host": "sql7.freesqldatabase.com",
+    "dialect": "mysql"
+  }
+}
